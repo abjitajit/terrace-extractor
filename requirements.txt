@@ -1,0 +1,6 @@
+numpy
+opencv-python
+scikit-image
+geopandas
+shapely
+rasterio
