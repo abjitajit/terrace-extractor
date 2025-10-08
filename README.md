@@ -75,6 +75,7 @@ This project is licensed under the [License](LICENSE).
 ## 🙌 Citation
 If you use this workflow, please cite:  
 > Abhijith A. Kumar, et al. (2025). *A Novel DEM Enhancement Methodology to Improve Physics-Based Susceptibility Modeling of Rainfall-Induced Landslides Along Anthropogenically Modified Slopes*. **Canadian Geotechnical Journal.**
+> Doi: 10.1139/cgj-2025-0008
 
 ---
 
