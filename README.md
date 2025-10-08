@@ -68,7 +68,7 @@ python terrace_extractor/terrace_extractor.py   --image /path/to/image.jpg   --o
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [License](LICENSE).  
 
 ---
 
