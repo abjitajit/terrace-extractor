@@ -2,7 +2,7 @@
 *A lightweight workflow for delineating terraced slopes from high-resolution imagery*  
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![License: IIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![GeoTools](https://img.shields.io/badge/GeoPackage-✔-brightgreen)](https://gdal.org/drivers/vector/gpkg.html)  
 
 ---
