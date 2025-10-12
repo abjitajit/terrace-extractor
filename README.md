@@ -49,6 +49,14 @@ python terrace_extractor/terrace_extractor.py   --image /path/to/image.tif   --o
 ```bash
 python terrace_extractor/terrace_extractor.py   --image /path/to/image.jpg   --out ./out   --t1 50 --t2 150 --kernel 3   --min-length 5   --epsg 32643   --pixel-size 0.3   --origin-x 500000   --origin-y 1100000   --as-gpkg
 ```
+### View available options
+To see all available command-line arguments and their descriptions, run:
+
+```bash
+python terrace_extractor/terrace_extractor.py --help
+```
+
+This displays usage information such as available flags, parameter defaults, and examples.
 
 ---
 
